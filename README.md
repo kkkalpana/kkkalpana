@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is Kalpana, and I’m a 4th-year Computing Science student at Simon Fraser University. I love building practical, user-friendly software and enjoy working on projects that turn simple ideas into real, functional applications. I’m especially interested in full-stack development and creating experiences that feel clean, intuitive, and impactful.
+My name is Kalpana, and I’m a computing Science student at Simon Fraser University Burnaby, British Columbia. I love building practical, user-friendly software and enjoy working on projects that turn simple ideas into real, functional applications. I’m especially interested in full-stack development and creating experiences that feel clean, intuitive, and impactful.
 
 When I’m not working on projects or exploring new technologies, I’m usually out on a hike or chasing my next adventure.
