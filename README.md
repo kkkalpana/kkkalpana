@@ -1,5 +1,7 @@
 # 💫 About Me:
-Im currently working on a chat application, building my portfolio and learning new skills, focusing on leetcode questions. I'm currently learning DP from striver. Outside of college, I am looking for new adventures or on hiking.<br><br>
+My name is Kalpana, and I’m a computing Science student at Simon Fraser University Burnaby, British Columbia. I love building practical, user-friendly software and enjoy working on projects that turn simple ideas into real, functional applications. I’m especially interested in full-stack development and creating experiences that feel clean, intuitive, and impactful.
+
+When I’m not working on projects or exploring new technologies, I’m usually out on a hike or chasing my next adventure.<br><br>
 
 
 ## 🌐 Socials:
