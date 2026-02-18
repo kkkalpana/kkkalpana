@@ -54,7 +54,7 @@ Solved 169+ algorithm and data structure problems on LeetCode, focusing on:
 - Recursion & Backtracking  
 - Dynamic Programming  
 
-LeetCode: https://leetcode.com/YOUR_USERNAME/
+LeetCode: [https://leetcode.com/YOUR_USERNAME/](https://leetcode.com/u/k_kalpana/)
 
 ---
 
