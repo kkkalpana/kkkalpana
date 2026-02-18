@@ -1,17 +1,73 @@
-# 💫 About Me:
-My name is Kalpana, and I’m a computing Science student at Simon Fraser University Burnaby, British Columbia. I love building practical, user-friendly software and enjoy working on projects that turn simple ideas into real, functional applications. I’m especially interested in full-stack development and creating experiences that feel clean, intuitive, and impactful.<br><br>When I’m not working on projects or exploring new technologies, I’m usually out on a hike or chasing my next adventure.
+# Hi, I’m Kalpana 👋
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kalpana-kalpana/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kka119@sfu.ca) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=flat&logo=angularjs&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=kkkalpana&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kkkalpana&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+🎓 4th Year Computing Science Student at Simon Fraser University (Burnaby, BC)  
+💻 Full-stack developer focused on building scalable, user-friendly applications  
+🌿 Explorer at heart — usually hiking somewhere in British Columbia  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=kkkalpana&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💡 About Me
+
+I enjoy turning simple ideas into real, functional software.
+
+My interests lie in full-stack development, where I design intuitive frontend experiences backed by clean, maintainable backend systems. I care about writing readable code, building scalable architecture, and creating applications that feel intentional and polished.
+
+---
+
+## 🛠 Technical Skills
+
+### Languages
+Java • Python • C++ • JavaScript • TypeScript • C  
+
+### Frontend
+React • TypeScript • HTML • CSS • Tailwind • Bootstrap  
+
+### Backend
+Node.js • Express • REST APIs • JWT Authentication  
+
+### Databases
+MongoDB • SQLite  
+
+### Tools
+Git • Postman • Netlify • Figma • Power BI  
+
+---
+
+## 🧠 Advanced Frontend Focus
+
+Currently strengthening my TypeScript expertise with emphasis on:
+
+- Building polymorphic React components  
+- Using generics and utility types for type safety  
+- Creating reusable and scalable component systems  
+- Writing type-safe React applications  
+
+---
+
+## 🧠 Problem Solving
+
+Solved 169+ algorithm and data structure problems on LeetCode, focusing on:
+
+- Arrays & Strings  
+- Hash Maps  
+- Trees & Graphs  
+- Recursion & Backtracking  
+- Dynamic Programming  
+
+LeetCode: https://leetcode.com/YOUR_USERNAME/
+
+---
+
+## 🎯 Currently Focused On
+
+- Building production-ready full-stack applications  
+- Strengthening backend architecture and system design  
+- Writing scalable TypeScript code  
+- Preparing for new grad software engineering roles  
+
+---
+
+## 🌎 Let’s Connect
+
+LinkedIn: https://www.linkedin.com/in/kalpana-kalpana/  
+Email: kka119@sfu.ca
